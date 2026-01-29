@@ -1,7 +1,8 @@
 using JetBrains.Annotations;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class UIManager : MonoBehaviour
 {
     [SerializeField] private GameObject infoPanel;
     [SerializeField] private GameObject settingPanel;
@@ -13,10 +14,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-
-    }
     public void OpenInfo()
     {
         infoPanel.SetActive(true);
@@ -27,4 +24,17 @@ public class NewMonoBehaviourScript : MonoBehaviour
         infoPanel.SetActive(false);
     }
 
+    public void OpenSetting()
+    {
+        settingPanel.SetActive(true);
+    }
+    public void CloseSetting()
+    {
+        settingPanel.SetActive(false);
+    }
+
+    public void StartGame()
+    {
+        SceneManager.LoadScene(1);
+    }
 }
