@@ -6,26 +6,17 @@ using static Unity.Burst.Intrinsics.X86;
 
 public class InputManager : MonoBehaviour
 {
-    public float moveSpeed = 6.0f;
-    public float mouseSensitivity = 2.0f;
+    public float moveSpeed = 1.0f;
+    public float mouseSensitivity = 1.0f;
     public Transform camTransform;
     public Transform targetTransform;
     float fRotateVertical = 0.0f;
     public CharacterController cc;
 
-    //old
-    public Transform[] target;
-    public GameObject[] sandwichs;
-    public int currentTargetIndex = 0;
-    SandwichRotate[] sandwichRotates;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        sandwichRotates = new SandwichRotate[sandwichs.Length];
-        for (int i = 0; i < sandwichs.Length; i++)
-        {
-            sandwichRotates[i] = sandwichs[i].GetComponent<SandwichRotate>();
-        }
+
     }
     // Update is called once per frame
     void Update()
