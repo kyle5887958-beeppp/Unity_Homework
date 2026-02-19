@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\apps\\unityhub\\projects\\unity_homework\\assets\\homework\\battlescene\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\apps\\unityhub\\projects\\unity_homework\\assets\\homework\\battlescene\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\apps\\unityhub\\projects\\unity_homework\\assets\\homework\\battlescene\\assetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\assetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\apps\\unityhub\\projects\\unity_homework\\assets\\homework\\battlescene\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\apps\\unityhub\\projects\\unity_homework\\assets\\homework\\battlescene\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\InputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Homework\\BattleScene\\InputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\apps\\unityhub\\projects\\unity_homework\\assets\\homework\\battlescene\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\apps\\unityhub\\projects\\unity_homework\\assets\\homework\\battlescene\\tpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\tpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\apps\\unityhub\\projects\\unity_homework\\assets\\homework\\battlescene\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +51,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cs",
-              "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\Main.cs",
-              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\Main.cs",
-              "ToolTip": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\Main.cs",
-              "RelativeToolTip": "Assets\\Homework\\BattleScene\\Main.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\ObjectPool.cs",
+              "ToolTip": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Homework\\BattleScene\\ObjectPool.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T15:43:50.957Z",
+              "WhenOpened": "2026-02-19T13:00:56.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetData.cs",
+              "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\AssetData.cs",
+              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\AssetData.cs",
+              "ToolTip": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\AssetData.cs",
+              "RelativeToolTip": "Assets\\Homework\\BattleScene\\AssetData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:41:53.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ObjectManager.cs",
+              "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\ObjectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\ObjectManager.cs",
+              "ToolTip": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\ObjectManager.cs",
+              "RelativeToolTip": "Assets\\Homework\\BattleScene\\ObjectManager.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:09:09.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\Main.cs",
+              "ToolTip": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\Main.cs",
+              "RelativeToolTip": "Assets\\Homework\\BattleScene\\Main.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:43:50.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Sandwich.cs",
               "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\Sandwich.cs",
               "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\Sandwich.cs",
@@ -59,12 +109,11 @@
               "RelativeToolTip": "Assets\\Homework\\BattleScene\\Sandwich.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T15:37:35.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T15:37:35.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TPController.cs",
               "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\TPController.cs",
               "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\TPController.cs",
@@ -72,12 +121,11 @@
               "RelativeToolTip": "Assets\\Homework\\BattleScene\\TPController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAowBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T08:31:48.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T08:31:48.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TPCamera.cs",
               "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\TPCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\TPCamera.cs",
@@ -85,12 +133,11 @@
               "RelativeToolTip": "Assets\\Homework\\BattleScene\\TPCamera.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAowGIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T08:33:07.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T08:33:07.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "InputManager.cs",
               "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\InputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\InputManager.cs",
@@ -98,12 +145,11 @@
               "RelativeToolTip": "Assets\\Homework\\BattleScene\\InputManager.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T06:35:32.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T06:35:32.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "InputSystem.cs",
               "DocumentMoniker": "E:\\apps\\UnityHub\\Projects\\Unity_Homework\\Assets\\Homework\\BattleScene\\InputSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\InputSystem.cs",
@@ -111,8 +157,7 @@
               "RelativeToolTip": "Assets\\Homework\\BattleScene\\InputSystem.cs",
               "ViewState": "AgIAAEEAAAAAzMzMzMwcwDwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T06:40:12.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T06:40:12.194Z"
             }
           ]
         }
