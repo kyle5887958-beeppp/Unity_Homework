@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Windows;
 
 public class TPController : MonoBehaviour
 {
@@ -14,7 +15,15 @@ public class TPController : MonoBehaviour
     public PlayerInput pInput;
     private InputAction moveAction;
     private InputAction lookAction;
+
+    private Animator animator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    private void Awake()
+    {
+        animator = GetComponent<Animator>();
+    }
+
     void Start()
     {
         moveAction = pInput.actions["Move"];
@@ -45,10 +54,7 @@ public class TPController : MonoBehaviour
             Quaternion targetRotation = Quaternion.LookRotation(moveDirection);
             transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, rotateSpeed * Time.deltaTime);
         }
-        else
-        {
-            //TODO: Idle Animation
-        }
+
         Vector3 moveAmount = Vector3.zero;
         if(moveDirection != Vector3.zero)
         {
@@ -66,5 +72,14 @@ public class TPController : MonoBehaviour
         moveAmount += vGravityVector;
         moveAmount *= Time.deltaTime;
         _cc.Move(moveAmount);
+
+            if (moveDirection.magnitude > 0.1f)
+            {
+                animator.SetBool("Run", true);
+            }
+            else
+            {
+                animator.SetBool("Run", false);
+        }
     }
 }

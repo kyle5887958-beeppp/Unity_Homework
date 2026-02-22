@@ -55,4 +55,24 @@ public class CObjectPool
         }
         return null;
     }
+    public void UnLoadDataToPool(GameObject go)
+    {
+        if (sandwichGameObjects == null)
+        {
+            return ;
+        }
+
+        int iCount = sandwichGameObjects.Count;
+        for (int i = 0; i < iCount; i++)
+        {
+            if (sandwichGameObjects[i].go == go)
+            {
+                sandwichGameObjects[i].isUsing = false;
+                sandwichGameObjects[i].go.SetActive(false);
+                break;
+            }
+        }
+        return ;
+    }
+
 }

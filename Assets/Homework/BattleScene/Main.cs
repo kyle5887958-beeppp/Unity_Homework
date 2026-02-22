@@ -12,19 +12,6 @@ public class Main : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            StartCoroutine(ResourceLoadAsync("sandwich"));
-        }
     }
-    IEnumerator ResourceLoadAsync(string name)
-    {
-        ResourceRequest rr = Resources.LoadAsync(name);
-        yield return rr;
 
-        if (rr.isDone)
-        {
-            Instantiate(rr.asset);
-        }
-    }
 }

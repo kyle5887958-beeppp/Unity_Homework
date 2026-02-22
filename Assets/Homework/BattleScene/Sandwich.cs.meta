@@ -1,2 +1,14 @@
 fileFormatVersion: 2
 guid: d2dac8d18a7deb74289894118fce6fe1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - eatAudio: {instanceID: 0}
+  - playerTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

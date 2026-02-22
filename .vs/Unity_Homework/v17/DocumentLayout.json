@@ -1,21 +1,35 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\unity\\Unity_Homework\\",
+  "WorkspaceRootPath": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|c:\\unity\\unity_homework\\assets\\homework\\battlescene\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|c:\\users\\kyle5\\desktop\\unityproject\\unity_homework\\assets\\homework\\battlescene\\tpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\tpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Unity\\20251229\\InputManagerSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\20260107\\ObjectManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|c:\\unity\\unity_homework\\assets\\homework\\battlescene\\sandwichrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\sandwichrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|c:\\users\\kyle5\\desktop\\unityproject\\unity_homework\\assets\\homework\\battlescene\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|c:\\unity\\unity_homework\\assets\\homework\\battlescene\\holycup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\holycup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\assets\\homework\\battlescene\\eatsandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\eatsandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\assets\\homework\\battlescene\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\20260107\\ObjectPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\assets\\homework\\battlescene\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15F9E8A-4133-31E5-B537-009677046992}|Assembly-CSharp.csproj|solutionrelative:assets\\homework\\battlescene\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\20251224\\ClickMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,58 +39,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InputManagerSample.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Unity\\20251229\\InputManagerSample.cs",
-              "RelativeDocumentMoniker": "..\\..\\Users\\User\\Desktop\\Unity\\20251229\\InputManagerSample.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Unity\\20251229\\InputManagerSample.cs",
-              "RelativeToolTip": "..\\..\\Users\\User\\Desktop\\Unity\\20251229\\InputManagerSample.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TPController.cs",
+              "DocumentMoniker": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\TPController.cs",
+              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\TPController.cs",
+              "ToolTip": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\TPController.cs",
+              "RelativeToolTip": "Assets\\Homework\\BattleScene\\TPController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T07:22:45.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SandwichRotate.cs",
-              "DocumentMoniker": "C:\\unity\\Unity_Homework\\Assets\\Homework\\BattleScene\\SandwichRotate.cs",
-              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\SandwichRotate.cs",
-              "ToolTip": "C:\\unity\\Unity_Homework\\Assets\\Homework\\BattleScene\\SandwichRotate.cs",
-              "RelativeToolTip": "Assets\\Homework\\BattleScene\\SandwichRotate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T06:21:16.949Z",
+              "WhenOpened": "2026-02-22T17:00:23.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HolyCup.cs",
-              "DocumentMoniker": "C:\\unity\\Unity_Homework\\Assets\\Homework\\BattleScene\\HolyCup.cs",
-              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\HolyCup.cs",
-              "ToolTip": "C:\\unity\\Unity_Homework\\Assets\\Homework\\BattleScene\\HolyCup.cs",
-              "RelativeToolTip": "Assets\\Homework\\BattleScene\\HolyCup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EatSandwich.cs",
+              "DocumentMoniker": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\EatSandwich.cs",
+              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\EatSandwich.cs",
+              "ToolTip": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\EatSandwich.cs",
+              "RelativeToolTip": "Assets\\Homework\\BattleScene\\EatSandwich.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T06:21:08.279Z",
+              "WhenOpened": "2026-02-22T14:47:48.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InputManager.cs",
-              "DocumentMoniker": "C:\\unity\\Unity_Homework\\Assets\\Homework\\BattleScene\\InputManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\InputManager.cs",
-              "ToolTip": "C:\\unity\\Unity_Homework\\Assets\\Homework\\BattleScene\\InputManager.cs",
-              "RelativeToolTip": "Assets\\Homework\\BattleScene\\InputManager.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwCYAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Sandwich.cs",
+              "DocumentMoniker": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\Sandwich.cs",
+              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\Sandwich.cs",
+              "ToolTip": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\Sandwich.cs",
+              "RelativeToolTip": "Assets\\Homework\\BattleScene\\Sandwich.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T06:00:44.595Z",
+              "WhenOpened": "2026-02-22T14:22:52.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\ObjectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\ObjectManager.cs",
+              "ToolTip": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\ObjectManager.cs",
+              "RelativeToolTip": "Assets\\Homework\\BattleScene\\ObjectManager.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwGIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:55:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Homework\\BattleScene\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\kyle5\\Desktop\\UnityProject\\Unity_Homework\\Assets\\Homework\\BattleScene\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Homework\\BattleScene\\ObjectPool.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwEMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:55:04.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "895ba114-9a6e-412e-b12c-9ffe8d237030",
+        "Display": 0,
+        "X": 69,
+        "Y": 97,
+        "Width": 2277,
+        "Height": 1136,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClickMove.cs",
+              "DocumentMoniker": "D:\\Unity\\20251224\\ClickMove.cs",
+              "ToolTip": "D:\\Unity\\20251224\\ClickMove.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T14:45:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "D:\\Unity\\20260107\\ObjectPool.cs",
+              "ToolTip": "D:\\Unity\\20260107\\ObjectPool.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:53:29.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectManager.cs",
+              "DocumentMoniker": "D:\\Unity\\20260107\\ObjectManager.cs",
+              "ToolTip": "D:\\Unity\\20260107\\ObjectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:40:16.329Z",
               "EditorCaption": ""
             }
           ]

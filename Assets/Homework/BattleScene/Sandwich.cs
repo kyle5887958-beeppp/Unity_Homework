@@ -2,32 +2,47 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Rendering;
 
-public class SandwichRotate : MonoBehaviour
+public class Sandwich : MonoBehaviour
 {
     public GameObject target;
     Vector3 center;
     public AudioSource eatAudio;
     bool eaten = false;
     private Renderer[] renderers;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         center = GetChildrenCenter();
-        eatAudio = GetComponent<AudioSource>();
-        renderers = GetComponentsInChildren<Renderer>();
+        eatAudio = GetComponentInChildren<AudioSource>();
+        renderers = GetComponentsInChildren<Renderer>(true);
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.RotateAround(center, Vector3.up, 30 * Time.deltaTime);
+        RotateSandwich();
     }
     Vector3 GetChildrenCenter()
     {
-        Vector3 targetRoot = target.GetComponentInChildren<Renderer>().bounds.center;
+        Vector3 targetRoot = gameObject.GetComponentInChildren<Renderer>().bounds.center;
         return targetRoot;
     }
-    public void EatSound()
+
+    public void RotateSandwich()
+    {
+        transform.RotateAround(center, Vector3.up, 20 * Time.deltaTime);
+    }
+
+    public void ResetSandwich()
+    {
+        eaten = false;
+        renderers = GetComponentsInChildren<Renderer>(true);
+        center = GetChildrenCenter();
+        gameObject.SetActive(true);
+        SetVisible(true);
+    }
+    public void Eat()
     {
         if (eaten) return;
         eaten = true;
@@ -38,7 +53,7 @@ public class SandwichRotate : MonoBehaviour
     private IEnumerator DisableAfterSound()
     {
         yield return new WaitForSeconds(eatAudio.clip.length);
-        gameObject.SetActive(false);
+        ObjectManager.Instance().RemoveSandwich(gameObject);
     }
     void SetVisible(bool visible)
     {
